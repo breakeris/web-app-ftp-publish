@@ -52,6 +52,8 @@ Configuration
 * **catalogFileName**  - Optional . Catalog json file name.default 'catalog.json'
 
 
+>  Reminder: The tool uses FTP Passive mode for uploading. If connecting/uploading timeout, please check whether the server has enough ports available for FTP upload.
+
 Methods
 -------
 
