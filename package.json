@@ -1,0 +1,25 @@
+{
+
+  "author": {
+    "name": "breakeris",
+    "email": "breakeristian@gmail.com"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "ftp": "^0.3.10"
+  },
+  "description": "With FTP Server,publish the build files of ReactJS App and Vue App to the web server target directory.",
+  "keywords": [
+    "publish",
+    "react",
+    "vue",
+    "ftp"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "web-app-ftp-publish",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.1"
+}
